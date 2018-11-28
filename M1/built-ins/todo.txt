@@ -1,0 +1,1 @@
+Write a small example for each built in function
